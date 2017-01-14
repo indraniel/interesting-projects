@@ -9,6 +9,7 @@ Just a collection of projects and programming links I find interesting as I peru
 ## javascript
 
 * [leaflet.js](http://leafletjs.com) - A JavaScript library for mobile friendly interactive maps.
+* [javascript `await` and `async`](http://blog.klipse.tech/javascript/2016/12/19/es2017-sleep.html)
 
 ## R
 
@@ -19,6 +20,20 @@ Just a collection of projects and programming links I find interesting as I peru
 * [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
 * [mpenet/spandex](https://github.com/mpenet/spandex) - Elasticsearch client for clojure _(built on new ES 5.x java client)_
 * [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](http://bib.oxfordjournals.org/content/early/2016/12/31/bib.bbw130.full)
+* [mortgage-calculator in clojurescript](https://github.com/rahulpilani/mort-calc)
+* [Designing Pipeline Transformations](https://8thlight.com/blog/damon-kelley/2016/12/07/designing-for-pipeline-transformations.html)
+* [mozilla/mentat](https://github.com/mozilla/mentat/tree/master) - A persistent, relational store inspired by Datomic and DataScript.
+* [Lambda Island: 22. Seq and Seqable](https://lambdaisland.com/episodes/clojure-seq-seqable) - video
+* [Deep Learning in Clojure with Cortex](http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/)
+* [binaryage/chromex](https://github.com/binaryage/chromex) - Chrome Extensions with ClojureScript
+* [Visualizing the Iris with PCA](https://gist.github.com/hswick/83f338107a9fb72082a0131e147b35ed)
+* [SDSU CS696: Functional Programming and Design](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
+* [`om.next` interactive tutorial](http://read.klipse.tech/om-next-interactive-tutorial/)
+* [An adventure with clocks, components, and clojure.spec](http://spootnik.org/entries/2017/01/09_an-adventure-with-clocks-component-and.html)
+* [YouTube video series on clojure transducers](https://www.youtube.com/watch?v=WkHdqg_DBBs&list=PLhi8pL3xn1OTfhjnIHmokYjKzLSBtYu8-)
+* [reagent deep dive part 1](https://timothypratley.blogspot.ca/2017/01/reagent-deep-dive-part-1.html)
+* [Parens of the Dead](http://www.parens-of-the-dead.com/) - _A screencast series of zombie-themed games
+written with Clojure and ClojureScript._
 
 
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
