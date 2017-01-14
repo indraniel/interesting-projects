@@ -18,6 +18,7 @@ Just a collection of projects and programming links I find interesting as I peru
 
 * [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
 * [mpenet/spandex](https://github.com/mpenet/spandex) - Elasticsearch client for clojure _(built on new ES 5.x java client)_
+* [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](http://bib.oxfordjournals.org/content/early/2016/12/31/bib.bbw130.full)
 
 
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
