@@ -14,6 +14,8 @@ Just a collection of projects and programming links I find interesting as I peru
 ## R
 
 * [aheatmaps](https://renozao.github.io/NMF/devel/vignettes/aheatmaps.pdf) - R package that provides convenient and quick ways of producing high quality and customizable annotated heatmaps.
+* [Data frame performance](https://cran.rstudio.com/web/packages/dplyr/vignettes/data_frames.html)
+* [Introducing dplyr](https://blog.rstudio.org/2014/01/17/introducing-dplyr/)
 
 ## clojure/clojurescript
 
@@ -32,8 +34,18 @@ Just a collection of projects and programming links I find interesting as I peru
 * [An adventure with clocks, components, and clojure.spec](http://spootnik.org/entries/2017/01/09_an-adventure-with-clocks-component-and.html)
 * [YouTube video series on clojure transducers](https://www.youtube.com/watch?v=WkHdqg_DBBs&list=PLhi8pL3xn1OTfhjnIHmokYjKzLSBtYu8-)
 * [reagent deep dive part 1](https://timothypratley.blogspot.ca/2017/01/reagent-deep-dive-part-1.html)
+* [Building Single Page Apps with Reagent](https://yogthos.net/posts/2014-07-15-Building-Single-Page-Apps-with-Reagent.html)
 * [Parens of the Dead](http://www.parens-of-the-dead.com/) - _A screencast series of zombie-themed games
 written with Clojure and ClojureScript._
+* [ClojureBridge community docs](https://clojurebridge.github.io/community-docs)
+* [clojure reference - special forms](https://clojure.org/references/special_forms)
 
+## OCaml
+
+* [Real World OCaml](https://realworldocaml.org/v1/en/html/index.html)
+
+## Mathematics/Engineering
+
+* [Notes on Regularization and Robust Estimation](http://www.cns.nyu.edu/~david/handouts/regularization.pdf)
 
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
