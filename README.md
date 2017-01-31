@@ -48,4 +48,8 @@ written with Clojure and ClojureScript._
 
 * [Notes on Regularization and Robust Estimation](http://www.cns.nyu.edu/~david/handouts/regularization.pdf)
 
+## Linux
+
+* [snapcraft.io](http://snapcraft.io/) -- _Package any app for every Linux desktop, server, cloud or device, and deliver updates directly._
+
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
