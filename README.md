@@ -52,4 +52,10 @@ written with Clojure and ClojureScript._
 
 * [snapcraft.io](http://snapcraft.io/) -- _Package any app for every Linux desktop, server, cloud or device, and deliver updates directly._
 
+# February 2017
+
+## C/C++
+
+[An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
+
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
