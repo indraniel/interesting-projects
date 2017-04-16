@@ -74,3 +74,7 @@ written with Clojure and ClojureScript._
 ## Databases
 
 * [Full Text Search using MongoDB](https://steamlayers.com/full-text-search-using-mongodb/)
+
+## Data Sources
+
+* [Air Quality Index for Kolkata, India (Victoria Memorial)](http://aqicn.org/city/india/kolkata/victoria/)
