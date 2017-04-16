@@ -63,3 +63,14 @@ written with Clojure and ClojureScript._
 * [Scratchapixel2.0](https://www.scratchapixel.com/)
 
 [0]: http://suncalc.net/#/38.8976,-77.0367,17/2017.01.04/13:28
+
+# April 2017
+
+## Data Science
+
+* [Austin Rochford's Posts'](http://austinrochford.com/posts.html)
+* [bayesianbiologist blog](https://bayesianbiologist.com/)
+
+## Databases
+
+* [Full Text Search using MongoDB](https://steamlayers.com/full-text-search-using-mongodb/)
