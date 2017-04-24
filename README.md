@@ -70,11 +70,33 @@ written with Clojure and ClojureScript._
 
 * [Austin Rochford's Posts'](http://austinrochford.com/posts.html)
 * [bayesianbiologist blog](https://bayesianbiologist.com/)
+* [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
+* ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
+* [distill.pub](http://distill.pub)
+* [data science software cheatsheets](http://www.datasciencefree.com/cheatsheets.html)
 
 ## Databases
 
 * [Full Text Search using MongoDB](https://steamlayers.com/full-text-search-using-mongodb/)
 
+## Data Structures / Algorithms
+
+* [Quora: 500 Data Structures and Algorithms Interview Questions & Their Solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
+
 ## Data Sources
 
 * [Air Quality Index for Kolkata, India (Victoria Memorial)](http://aqicn.org/city/india/kolkata/victoria/)
+
+## Python
+
+* [Pandas in Python - Dataframe Tutorial(With examples)](http://www.androidxu.com/2017/04/pandas-in-python-dataframe-tutorial-example.html)
+* [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
+
+## C/C++
+
+* [libsmartcols - pretty output for everyone!](http://karelzak.blogspot.com/2014/05/libsmartcols-pretty-output-for-everyone.html)
+
+## Clojure
+
+* [On the Judicious Use of `core.async`](http://realworldclojure.com/on-the-judicious-use-of-core.async/)
+
