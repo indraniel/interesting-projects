@@ -100,3 +100,8 @@ written with Clojure and ClojureScript._
 
 * [On the Judicious Use of `core.async`](http://realworldclojure.com/on-the-judicious-use-of-core.async/)
 
+# May 2017
+
+## Algorithms
+
+* [Algorithm Courses of Tim Roughgarden of Stanford University](http://theory.stanford.edu/~tim/teaching.html)
