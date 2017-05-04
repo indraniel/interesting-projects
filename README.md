@@ -105,3 +105,4 @@ written with Clojure and ClojureScript._
 ## Algorithms
 
 * [Algorithm Courses of Tim Roughgarden of Stanford University](http://theory.stanford.edu/~tim/teaching.html)
+* [Linear Algebra: Foundations to Frontiers (UT Austin)](http://www.ulaff.net)
